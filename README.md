@@ -40,6 +40,9 @@
 
 - [数字逻辑与部件设计](courses/digital-logic-and-component-design/)：孙晓光，2024-2025 学年秋季学期。
 - [代数结构与数理逻辑](courses/algebraic-structures-and-mathematical-logic/)：许扬，2024-2025 学年春季学期。
+- [信息安全导论](courses/introduction-to-information-security/)：吕智慧，2024-2025 学年秋季学期。
+- [数据结构](courses/data-structures/)：张玥杰，2024-2025 学年秋季学期。
+- [操作系统](courses/operating-systems/)：谢志鹏，2025-2026 学年秋季学期。
 
 ## 反馈与纠错
 
