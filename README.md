@@ -39,6 +39,7 @@
 ## 已上传课程
 
 - [数字逻辑与部件设计](courses/digital-logic-and-component-design/)：孙晓光，2024-2025 学年秋季学期。
+- [代数结构与数理逻辑](courses/algebraic-structures-and-mathematical-logic/)：许扬，2024-2025 学年春季学期。
 
 ## 反馈与纠错
 
