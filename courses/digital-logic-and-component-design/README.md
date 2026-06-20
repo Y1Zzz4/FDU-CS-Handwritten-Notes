@@ -1,0 +1,13 @@
+# 数字逻辑与部件设计
+
+- 授课教师：孙晓光
+- 适用学期：2024-2025 学年秋季学期
+- 笔记形式：扫描版手写笔记 PDF
+
+本目录收录《数字逻辑与部件设计》的个人复习笔记。内容仅供参考，请以课程当学期官方资料、教材和教师要求为准。
+
+## PDF 笔记
+
+| 文件 | 内容 | 页数 |
+| --- | --- | --- |
+| [digital-logic-and-component-design-notes.pdf](pdfs/digital-logic-and-component-design-notes.pdf) | 复习笔记 | 3 |

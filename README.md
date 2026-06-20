@@ -36,6 +36,10 @@
 - `courses/<course-name>/README.md`：记录课程简介、适用范围、PDF 笔记目录和维护状态。
 - `courses/<course-name>/pdfs/`：存放该课程的扫描版笔记 PDF。
 
+## 已上传课程
+
+- [数字逻辑与部件设计](courses/digital-logic-and-component-design/)：孙晓光，2024-2025 学年秋季学期。
+
 ## 反馈与纠错
 
 这个仓库主要是个人学习笔记分享。
