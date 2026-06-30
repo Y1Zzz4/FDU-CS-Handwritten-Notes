@@ -10,4 +10,4 @@
 
 | 文件 | 内容 | 页数 |
 | --- | --- | --- |
-| [data-structures-notes.pdf](pdfs/data-structures-notes.pdf) | 复习笔记 | 5 |
+| [数据结构-复习笔记.pdf](pdfs/数据结构-复习笔记.pdf) | 复习笔记 | 5 |

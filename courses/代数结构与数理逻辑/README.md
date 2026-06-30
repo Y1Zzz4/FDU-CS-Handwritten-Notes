@@ -10,5 +10,5 @@
 
 | 文件 | 内容 | 页数 |
 | --- | --- | --- |
-| [groups.pdf](pdfs/groups.pdf) | 群 | 15 |
-| [rings-and-fields.pdf](pdfs/rings-and-fields.pdf) | 环和域 | 13 |
+| [代数结构与数理逻辑-群.pdf](pdfs/代数结构与数理逻辑-群.pdf) | 群 | 15 |
+| [代数结构与数理逻辑-环和域.pdf](pdfs/代数结构与数理逻辑-环和域.pdf) | 环和域 | 13 |

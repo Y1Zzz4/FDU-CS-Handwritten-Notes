@@ -11,4 +11,4 @@
 
 | 文件 | 内容 | 页数 |
 | --- | --- | --- |
-| [introduction-to-information-security-notes.pdf](pdfs/introduction-to-information-security-notes.pdf) | 复习笔记 | 4 |
+| [信息安全导论-复习笔记.pdf](pdfs/信息安全导论-复习笔记.pdf) | 复习笔记 | 4 |

@@ -10,4 +10,4 @@
 
 | 文件 | 内容 | 页数 |
 | --- | --- | --- |
-| [operating-systems-notes.pdf](pdfs/operating-systems-notes.pdf) | 复习笔记 | 6 |
+| [操作系统-复习笔记.pdf](pdfs/操作系统-复习笔记.pdf) | 复习笔记 | 6 |

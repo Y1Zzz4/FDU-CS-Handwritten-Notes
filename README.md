@@ -25,24 +25,24 @@
 .
 ├── README.md
 ├── courses/
-│   └── <course-name>/
+│   └── <课程名称>/
 │       ├── README.md
 │       └── pdfs/
-│           └── <topic>.pdf
+│           └── <笔记名称>.pdf
 ```
 
 说明：
 
-- `courses/<course-name>/README.md`：记录课程简介、适用范围、PDF 笔记目录和维护状态。
-- `courses/<course-name>/pdfs/`：存放该课程的扫描版笔记 PDF。
+- `courses/<课程名称>/README.md`：记录课程简介、适用范围、PDF 笔记目录和维护状态。
+- `courses/<课程名称>/pdfs/`：存放该课程的扫描版笔记 PDF。
 
 ## 已上传课程
 
-- [数字逻辑与部件设计](courses/digital-logic-and-component-design/)：孙晓光，2024-2025 学年秋季学期。
-- [代数结构与数理逻辑](courses/algebraic-structures-and-mathematical-logic/)：许扬，2024-2025 学年春季学期。
-- [信息安全导论](courses/introduction-to-information-security/)：吕智慧，2024-2025 学年秋季学期。
-- [数据结构](courses/data-structures/)：张玥杰，2024-2025 学年秋季学期。
-- [操作系统](courses/operating-systems/)：谢志鹏，2025-2026 学年秋季学期。
+- [数字逻辑与部件设计](courses/数字逻辑与部件设计/)：孙晓光，2024-2025 学年秋季学期。
+- [代数结构与数理逻辑](courses/代数结构与数理逻辑/)：许扬，2024-2025 学年春季学期。
+- [信息安全导论](courses/信息安全导论/)：吕智慧，2024-2025 学年秋季学期。
+- [数据结构](courses/数据结构/)：张玥杰，2024-2025 学年秋季学期。
+- [操作系统](courses/操作系统/)：谢志鹏，2025-2026 学年秋季学期。
 
 ## 反馈与纠错
 

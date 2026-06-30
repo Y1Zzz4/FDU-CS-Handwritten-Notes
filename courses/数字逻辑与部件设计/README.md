@@ -10,4 +10,4 @@
 
 | 文件 | 内容 | 页数 |
 | --- | --- | --- |
-| [digital-logic-and-component-design-notes.pdf](pdfs/digital-logic-and-component-design-notes.pdf) | 复习笔记 | 3 |
+| [数字逻辑与部件设计-复习笔记.pdf](pdfs/数字逻辑与部件设计-复习笔记.pdf) | 复习笔记 | 3 |
